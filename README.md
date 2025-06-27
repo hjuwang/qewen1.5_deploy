@@ -36,7 +36,7 @@ python model_download.py
 
 根据模型的大小，下载需要的时间各不相同。  
 注意根据自己的环境替换模型的下载目录
-![alt text](image.png)
+![alt text](image/image.png)
 
 ## API 部署
 
@@ -44,9 +44,9 @@ python model_download.py
 ```shell
 python api.py
 ```
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 同样别忘了替换模型的目录
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
 ## 本地接口测试
 
